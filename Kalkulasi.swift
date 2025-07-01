@@ -112,4 +112,7 @@ struct KalkulatorNilaiVieww: View {
     NavigationView {
         KalkulatorNilaiVieww()
     }
+    
+    
+    
 }
