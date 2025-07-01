@@ -60,7 +60,7 @@ struct KalkulatorNilaiView: View {
         ScrollViewReader { proxy in
             ScrollView {
                 VStack(alignment: .leading, spacing: 15) {
-                    Text("Matematika Dasar I")
+                    Text("punya TI")
                         .font(.largeTitle).fontWeight(.bold)
                     HStack {
                         Text("Predict Grade").fontWeight(.medium)
